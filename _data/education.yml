@@ -1,7 +1,0 @@
-- name: Instituto Politecnico Nacional
-  dates: 2010 - 2015
-  qualification: BSc Mechatronics Engineering
-  quote: >
-  Project: Robot that identifies a Hockey disc via Artificial Vision. 
-  It implements an algorithm which predicts the movements of the disc and make an strategy to attack, all in real-time processing. 
-  With this system the robot can play with a kid fluently. My role was the mechanical design, microcontrollers programming and embed-systems integration.
